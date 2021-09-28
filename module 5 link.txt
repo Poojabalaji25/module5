@@ -1,0 +1,9 @@
+EXCHANGE ASSEST
+American Flights API
+
+https://anypoint.mulesoft.com/exchange/portals/njc-labs-903
+
+
+PROXY URL
+http://training4-american-api-pooja2507.us-e2.cloudhub.io
+
